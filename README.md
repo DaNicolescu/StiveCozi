@@ -1,4 +1,4 @@
-StiveCozi
+StiveCozi  
 	In main se initializeaza stivele si cozile si se citesc datele
 din fisier. De asemenea sunt apelate functiile corespunzatoare fiecarei operatii.
 La sfarsit se realizeaza eliberarile de memorie.
